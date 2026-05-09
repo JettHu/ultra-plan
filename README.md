@@ -4,13 +4,10 @@
 
 ## Install
 
-Install it as a user-level Codex skill:
+Ask Codex to install it with `skill-installer`:
 
-```bash
-uv run python ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo JettHu/ultra-plan \
-  --path . \
-  --name ultra-plan
+```text
+Use $skill-installer to install https://github.com/JettHu/ultra-plan as a user-level Codex skill.
 ```
 
 Restart Codex after installation so the skill is loaded.
