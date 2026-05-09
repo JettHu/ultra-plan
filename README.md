@@ -1,6 +1,6 @@
 # ultra-plan
 
-`ultra-plan` is a Codex skill for planning-first coding work. It helps Codex create an implementation plan before making code changes, using multi-agent exploration and review when appropriate.
+`ultra-plan` is a Codex skill inspired by Claude Code's ultraplan workflow. It brings the same planning-first style to Codex and other coding agents, helping them create an implementation plan before making code changes.
 
 ## Install
 
