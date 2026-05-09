@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ultra Plan"
+  short_description: "Multi-agent planning workflow"
+  default_prompt: "Use $ultra-plan to create a detailed implementation plan before coding."
+
+policy:
+  allow_implicit_invocation: false
